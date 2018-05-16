@@ -1,0 +1,79 @@
+body {
+background-image: url("ground.jpg");
+background-repeat: no-repeat;
+background-position: top;
+background-size: cover;
+width:90%;margin:auto;min-width:600px;max-width:2000px
+ overflow:scroll;
+    overflow-x:hidden;
+}
+h1 {
+font-family: impact;
+font-size: 70px;
+color:darkblack;
+text-align: center;
+text-decoration: underline;
+}
+h2 {
+font-family: impact;
+font-size: 55px;
+color: red;
+}
+p {
+font-family: Agency FB;
+font-size: 30px;
+}
+h4 {
+font-family :verdana;
+color:black;
+text-decoration:none;
+font-size:40px;
+text-align:left;
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 25px 35px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button:hover {
+    background-color: green;
+}
+.bring {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+.apple{
+    background-color: purple;
+    border: none;
+    color: white;
+    padding: 25px 35px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.apple:hover {
+    background-color: indigo;
+}
+h3 {
+font-size : 43px;
+font-family : Tw Cen MT;
+text-align : center;
+color : blue
+}
+h6 {
+font-size : 43px;
+font-family : Tw Cen MT;
+text-align : left;
+}
+
+
